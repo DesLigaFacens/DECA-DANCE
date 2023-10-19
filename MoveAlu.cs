@@ -8,7 +8,6 @@ public class MoveAlu : MonoBehaviour
     public int movespeed;
     private float direction;
     private SpriteRenderer spriteRenderer;
-    private Animator animator;
     public bool floor;
     public Transform detectfloor;
     public LayerMask wfloor;
@@ -19,7 +18,6 @@ public class MoveAlu : MonoBehaviour
         
         spriteRenderer = GetComponent<SpriteRenderer>();
         rb = GetComponent <Rigidbody2D>();
-        animator = GetComponent<Animator>();
     }
 
     // Update is called once per frame
@@ -43,6 +41,5 @@ public class MoveAlu : MonoBehaviour
         }
 
         float realspeed = Mathf.Abs(direction) + Mathf.Abs(movimentoVertical);
-        animator.SetFloat("Speed",realspeed);
     }
 }
