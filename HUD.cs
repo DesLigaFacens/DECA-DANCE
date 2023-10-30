@@ -5,16 +5,27 @@ using UnityEngine.UI;
 
 public class HUD : MonoBehaviour
 {
-    // Start is called before the first frame update
+    [SerializeField] private GameObject menuHUD;
+    public bool menuactive = false;
     void Start()
     {
         
     }
-
-    // Update is called once per frame
     void Update()
     {
-        //basicamente é só pegar a vida do personagem e fazer uma regrinha de 3
-        GetComponent<Image>().fillAmount -= Time.deltaTime * 0.1f;
+        if (Input.GetKeyDown(KeyCode.E))
+        {
+            menuactive = !menuactive;
+            menuHUD.SetActive(menuactive);
+            
+        }
+        else if(menuactive == true)
+        {
+            Time.timeScale = 0;
+        }
+        else
+        {
+            Time.timeScale = 1;
+        }
     }
 }

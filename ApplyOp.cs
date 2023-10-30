@@ -11,14 +11,6 @@ public class ApplyOp : MonoBehaviour
     public AudioSource menuost;
 
     public AudioSource buttonsound;
-    // Start is called before the first frame update
-
-    public void applicarOp()
-    {
-        menuost.volume = slid.value;
-        buttonsound.volume = slid.value;
-    }
-
     void Start()
     {
         
@@ -27,6 +19,7 @@ public class ApplyOp : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        Debug.Log(slid.value);
+        menuost.volume = slid.value;
+        buttonsound.volume = slid.value;
     }
 }
