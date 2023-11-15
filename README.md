@@ -1,4 +1,4 @@
-# Decatron
++++++# Decatron
 
 • Em Decatron o jogador deverá explorar ao maximo das regiões do mapa para aprimorar suas habilidades e equipamentos a fim de impedir que Deca piore as condições de quem já tem muito, os defensores da empresa não irão pegar leve;
 
@@ -22,9 +22,9 @@ Uma parte é caracterizada por uma elite poderosa, que exibe de forma proeminent
 
 • Principalmente na Erradicação da Pobreza, mas também abrange Redução da Desigualdade e e a Promoção de Cidades e Comunidades Sustentáveis.
 
-# Titulo ou Arte do Projeto
-## Versão: 1.0 
-## Status do Projeto: ✔️ Concluído ⚠️ Espera ❌ Cancelado
+# Decatron
+## Versão: 0.2
+## Status do Projeto: ⚠️ Espera 
 
 ## Tópicos
 🔹 Descrição do projeto 
