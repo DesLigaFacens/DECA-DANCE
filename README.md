@@ -22,7 +22,7 @@ Uma parte é caracterizada por uma elite poderosa, que exibe de forma proeminent
 
 • Principalmente na Erradicação da Pobreza, mas também abrange Redução da Desigualdade e e a Promoção de Cidades e Comunidades Sustentáveis.
 
-<h1> Decatron </h1>
+# Decatron 
 ## Versão: 0.2
 ## Status do Projeto: ⚠️ Espera 
 
