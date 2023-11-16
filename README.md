@@ -39,20 +39,11 @@ Uma parte é caracterizada por uma elite poderosa, que exibe de forma proeminent
 
 🔹 Testes realizados
 
-🔹 Banco de Dados
-
-🔹 Linguagens, dependências e libs utilizadas
-
-🔹 Novas Recursos
-
 🔹 Resolvendo problemas
 
 🔹 Recursos inseridos 
 
 🔹 Desenvolvedores/Contribuintes
-
-🔹 Informações Extras
-
 
 ...
 
