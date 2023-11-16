@@ -56,61 +56,55 @@ Uma parte é caracterizada por uma elite poderosa, que exibe de forma proeminent
 
 ...
 
-Insira os tópicos do README em links para facilitar a navegação do leitor
-
 ## Descrição do projeto
-Descrição breve do projeto compondo um paragrafo ou dois.
+Decatron é um projeto de um jogo cyberpunk baseado nas ODS da ONU, para combater a poluição, fome e desigualdade.
 
 ## Funcionalidades ⚙️
-✔️ Funcionalidade 1
+✔️ Personagem(Barto) com movimentação, golpes e skills
 
-✔️ Funcionalidade 2
+✔️ Menu e som funcionando corretamente
 
-✔️ Funcionalidade 3
+✔️ Inimigos
 
-✔️ Funcionalidade 4
+✔️ Mapa interiço
 
 ## Distribuição
-Link para teste da versão disponibilizada.
+GameJolt - 
+Itch.io - 
 
 ## Pré-requisitos ⚠️    
-Versão do Android; 
-SDK; 
+Computador com windows ou internet; 
+
 Aparelho utilizado para testes.
-- Liste todas as dependencias e libs que o usuário deve ter instalado na máquina antes de rodar a aplicação, para rodar o projeto.
+- Desktop com Windows 10.
 
 ## Como rodar a aplicação 
-Explicação de como se deve utilizar o projeto.
+Execute o Decatron.Exe.
 
 ## Testes realizados
-Utilização de imagens e descrição do qeu foi testado.
+a primeira build foi testado com toda a movimentação e menu.
 
-## Banco de Dados 🗂️
-Caso tenha acesso a uma base de dados, deixe a descrição do arquivo (json, csv, xml e etc).
 
 ## Linguagens, dependencias e libs utilizadas 📚
-![Android Studio](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 
-XML
-...
-Liste as tecnologias utilizadas no projeto que não forem reconhecidas pelo Github
 
 ## Resolvendo Problemas 
-Em issues foram abertos alguns problemas gerados durante o desenvolvimento desse projeto e como foram resolvidos.
+Perdemos alguns codigos devido a builds e imports conflitantes, porem foram refeitos rapidamente.
 
 ## Recursos de inseridos 🧰
-Se for o caso, liste tarefas/funcionalidades que ainda precisam ser implementadas na sua aplicação, insira fotos da tela do app.
 
-📝 Tarefa 1
+📝 Save/Load
 
-📝 Tarefa 2
+📝 Bosses adicionais Deca
 
-📝 Tarefa 3
+📝 Historia completa do jogo
 
 ## Desenvolvedores/Contribuintes:
-Liste o time responsável pelo desenvolvimento do projeto
+Bruno da Cunha Martins RA 200530
+Leonardo Matioli Gomes RA 235036
+Ewerson Neias Alves  RA 236743
+João Vitor Nunes Ribeiro RA 236699
+Leonardo Vinicius ferrazzini RA 235808
 
-## Licença
-The MIT License (MIT)
-
-## Copyright ©️ Ano - Titulo do Projeto
+## Copyright ©️ 2023 - Decatron
