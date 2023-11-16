@@ -1,4 +1,4 @@
-+++++# Decatron
+# Decatron
 
 • Em Decatron o jogador deverá explorar ao maximo das regiões do mapa para aprimorar suas habilidades e equipamentos a fim de impedir que Deca piore as condições de quem já tem muito, os defensores da empresa não irão pegar leve;
 
